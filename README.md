@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yah-lom
-- 👀 I’m interested in HTML,PYTHON,CSS,PHP AND JAVASCRIPT
+- 👀 I’m interested in HTML,PYTHON,CSS,PHP,MYSQL, RUST AND JAVASCRIPT
 - 🌱 I’m currently learning ALL
 - 💞️ I’m looking to collaborate on projects involving these languages
 - 📫 How to reach me on my email @ jamesnyonator2001@gmail.com
